@@ -3,6 +3,7 @@
 Prerequisites:
 
 1.Esp32/Esp8266
+
 Google Account with Assistant
 
 Steps:
@@ -44,6 +45,8 @@ Change your key,Device name (copy from adafruit secret key), wifi credentails & 
 Upload the code & enjoy.
 
 
+
 For Any Query Please contact :
+
 Linkdein:https://www.linkedin.com/in/ankitkothari4u/
 Email:Anlit.kothari@hotmail.com
