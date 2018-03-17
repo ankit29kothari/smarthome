@@ -7,6 +7,7 @@ Prerequisites:
 Google Account with Assistant
 
 Steps:
+
 1.Create account in https://ifttt.com/create wirh the same google account you have in your phone .
 
 2. In new Applet select +this -services-search for Google Assistant.
